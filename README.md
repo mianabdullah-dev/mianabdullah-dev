@@ -34,13 +34,11 @@
 
 ### ✦ GitHub Analytics
 
+### ✦ GitHub Analytics
+
 <div align="center">
-  <a href="https://github.com/mianabdullah-dev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mianabdullah-dev&theme=tokyonight&hide_border=true&background=0A0A0A" alt="GitHub Streak" height="192px"/>
-  </a>
-  <a href="https://github.com/mianabdullah-dev">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mianabdullah-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A" alt="Top Languages" height="192px"/>
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mianabdullah-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mianabdullah-dev&theme=tokyonight&hide_border=true&bg_color=0A0A0A&custom_title=Top%20Languages" alt="Top Languages" />
 </div>
 
 ---
