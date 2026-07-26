@@ -32,7 +32,6 @@
 ---
 
 
-### ✦ GitHub Analytics
 
 ### ✦ GitHub Analytics
 
