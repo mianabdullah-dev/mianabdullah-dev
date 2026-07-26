@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h3 align="center">Bridging the gap between complex AI systems and sleek, user-centric design. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /></h3>
+<h3 align="center">Bridging the gap between complex AI systems and sleek, user-centric design.</h3>
 
 <div align="center">
   <a href="https://abdullahdev.site" target="_blank">
@@ -23,29 +23,28 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Quick Facts
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" /> Currently building: **[PromptDev.site](https://promptdev.site)** - An elite AI Prompt Engineering Engine.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="20" height="20" /> Specialization: Ultra-fast web apps, SaaS platforms, and custom Jarvis-style AI assistants.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="20" height="20" /> Ask me about: **Next.js, Python, Tailwind, GSAP, and AI Integrations**.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="20" height="20" /> How to reach me: `mianabdullahdev@gmail.com`
+### ✦ Quick Facts
+- ⋄ Currently building: **[PromptDev.site](https://promptdev.site)** - An elite AI Prompt Engineering Engine.
+- ⋄ Specialization: Ultra-fast web apps, SaaS platforms, and custom Jarvis-style AI assistants.
+- ⋄ Ask me about: **Next.js, Python, Tailwind, GSAP, and AI Integrations**.
+- ⋄ How to reach me: `mianabdullahdev@gmail.com`
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
+### ✦ GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/mianabdullah-dev">
-    <img src="https://github-readme-stats.auth0.com/api?username=mianabdullah-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=DC2626" alt="Abdullah's GitHub Stats" height="192px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mianabdullah-dev&theme=tokyonight&hide_border=true&background=0A0A0A" alt="GitHub Streak" height="192px"/>
   </a>
   <a href="https://github.com/mianabdullah-dev">
-    <img src="https://github-readme-stats.auth0.com/api/top-langs/?username=mianabdullah-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=DC2626" alt="Top Languages" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianabdullah-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&v=1" alt="Top Languages" height="192px"/>
   </a>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Arsenal
+### ✦ Tech Arsenal
 
 <div align="center">
   <table>
@@ -80,7 +79,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> My Down Time
+### ✦ My Down Time
 <div align="center">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
