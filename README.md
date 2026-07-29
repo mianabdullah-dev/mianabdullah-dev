@@ -23,11 +23,12 @@
 
 ---
 
-### ✦ Quick Facts
-- ⋄ Currently building: **[PromptDev.site](https://promptdev.site)** - An elite AI Prompt Engineering Engine.
-- ⋄ Specialization: Ultra-fast web apps, SaaS platforms, and custom Jarvis-style AI assistants.
-- ⋄ Ask me about: **Next.js, Python, Tailwind, GSAP, and AI Integrations**.
-- ⋄ How to reach me: `mianabdullahdev@gmail.com`
+✦ Quick Facts
+
+• Currently building: [LogicShift Labs](https://logicshiftlabs.com) — An elite AI R&D studio, and its flagship product, [PromptDev.site](https://promptdev.site).
+• Specialization: Ultra-fast web apps, scalable SaaS platforms, and custom Jarvis-style AI assistants.
+• Ask me about: Next.js, Python, Tailwind, GSAP, and complex AI Integrations.
+• How to reach me: mianabdullahdev@gmail.com
 
 ---
 
